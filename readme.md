@@ -2,7 +2,7 @@
 
 Quick n' dirty way to visualize test coverage of files you've changed since your git branch started.
 
-![Demonstration of output](https://i.bjacobel.com/20180413-m4yb7.png)
+![Demonstration of output](https://github.com/axioscode/diff-cover/blob/master/screenshot.png)
 
 ### Requirements
 - `git`
