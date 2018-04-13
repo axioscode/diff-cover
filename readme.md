@@ -13,11 +13,11 @@ Quick n' dirty way to visualize test coverage of files you've changed since your
 #### Usage
 1. Install with `npm` or `yarn`:
 
-    yarn add --dev @axioscode/diff-cover
+		yarn add --dev @axioscode/diff-cover
 
 2. Run:
 
-    yarn run diff-cover
+		yarn run diff-cover
 
 #### Options
 To change the base branch for coverage comparison, set the `COVER_BASE` environment variable:

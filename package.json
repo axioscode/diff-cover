@@ -1,5 +1,5 @@
 {
-  "name": "diff-cover",
+  "name": "@axioscode/diff-cover",
   "version": "1.0.0",
   "description": "Quickly display test coverage of files changed on your git branch",
   "bin": {
@@ -10,7 +10,7 @@
     "Brian Jacobel <brian@axios.com>"
   ],
   "license": "MIT",
-  "private": false,
+  "private": true,
   "keywords": [
     "test coverage",
     "jest",
