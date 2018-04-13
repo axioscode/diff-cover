@@ -10,7 +10,6 @@
     "Brian Jacobel <brian@axios.com>"
   ],
   "license": "Apache-2.0",
-  "private": true,
   "keywords": [
     "test coverage",
     "jest",
